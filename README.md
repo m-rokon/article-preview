@@ -30,8 +30,8 @@ Finally, I figure it out how to set it to the position.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Check the solution here](https://github.com/m-rokon/article-preview)
+- Live Site URL: [View it in live here](https://m-rokon.github.io/article-preview/)
 
 ## My process
 
